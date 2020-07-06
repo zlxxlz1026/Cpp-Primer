@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Unit_12"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_13">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_13"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_13/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_13/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_6">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_6"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_6/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_6/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unit_12">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Unit_12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 Unit_12"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Unit_12/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Unit_12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 Unit_12/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_2">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_2"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_2/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_2/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_7">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_7"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_7/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_7/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_10">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_10"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_10/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_10/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_14">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_14"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_14/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_14/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_15">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_15.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_15"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_15/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_15.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_15/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_16">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_16.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_16"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="12_16/fast">
+				<Option output="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/12_16.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/backward"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../include"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed"/>
+					<Add directory="E:/Sublime/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 12_16/fast"/>
+					<CompileFile command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Sublime/MinGW64/bin/mingw32-make.exe -f &quot;E:/C++ Project/C++ Primer/Unit 12/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_10.cpp">
+			<Option target="12_10"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_13.cpp">
+			<Option target="12_13"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_14.cpp">
+			<Option target="12_14"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_15.cpp">
+			<Option target="12_15"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_16.cpp">
+			<Option target="12_16"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_2.cpp">
+			<Option target="12_2"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_2.h">
+			<Option target="12_2"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_6.cpp">
+			<Option target="12_6"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/12_7.cpp">
+			<Option target="12_7"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/main.cpp">
+			<Option target="Unit_12"/>
+		</Unit>
+		<Unit filename="E:/C++ Project/C++ Primer/Unit 12/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
