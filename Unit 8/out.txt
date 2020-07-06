@@ -1,6 +1,0 @@
-xxxx 50 1000
-ccccc 60 1800
-xxxx 90 4000
-xxxx 50 1000
-ccccc 60 1800
-xxxx 90 4000
